@@ -1,2 +1,2 @@
 # ansible_playbook
-all configuration files for ansible will be store here. 
+all configuration files for ansible will be found here. 
